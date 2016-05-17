@@ -1,0 +1,11 @@
+﻿生成启动时间为 2016/4/4 23:29:26。
+     1>项目“c:\Users\zuo\documents\visual studio 2015\Projects\SDL\SDL\SDL.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\zuo\documents\visual studio 2015\Projects\SDL\Debug\SDL.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\我的文件\C++\SDL2-2.0.4\lib\x86" SDL2.lib SDL2main.lib SDL2test.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\zuo\documents\visual studio 2015\Projects\SDL\Debug\SDL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\zuo\documents\visual studio 2015\Projects\SDL\Debug\SDL.lib" /MACHINE:X86 Debug\SDL.obj
+     1>SDL2main.lib(SDL_windows_main.obj) : error LNK2019: 无法解析的外部符号 _SDL_main，该符号在函数 _main_utf8 中被引用
+     1>c:\users\zuo\documents\visual studio 2015\Projects\SDL\Debug\SDL.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“c:\Users\zuo\documents\visual studio 2015\Projects\SDL\SDL\SDL.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.30

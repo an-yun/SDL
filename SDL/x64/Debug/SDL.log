@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/4/6 11:01:07。
+     1>项目“C:\Users\zuo\documents\visual studio 2015\Projects\SDL\SDL\SDL.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"D:\我的文件\C++\SDL2" /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Particle.cpp
+         Particle.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zuo\documents\visual studio 2015\Projects\SDL\x64\Debug\SDL.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\我的文件\C++\SDL2-2.0.4\lib\x64" SDL2.lib SDL2main.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\zuo\documents\visual studio 2015\Projects\SDL\x64\Debug\SDL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zuo\documents\visual studio 2015\Projects\SDL\x64\Debug\SDL.lib" /MACHINE:X64 x64\Debug\Particle.obj
+         x64\Debug\Screen.obj
+         x64\Debug\SDL.obj
+         x64\Debug\Swarm.obj
+         SDL.vcxproj -> C:\Users\zuo\documents\visual studio 2015\Projects\SDL\x64\Debug\SDL.exe
+     1>已完成生成项目“C:\Users\zuo\documents\visual studio 2015\Projects\SDL\SDL\SDL.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.91
